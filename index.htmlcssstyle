@@ -9,7 +9,3 @@
     <p>Hello everyone, my name is CSS How To Exercise</p>
 </body>
 </html>
-p {
-    font-family: Verdana, sans-serif;
-    font-size: 14pt;
-}
